@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=200&section=header&text=MUAZU%20MIKAIL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=200&section=header&text=MUAZU%20MIKAIL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20and%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <!-- TYPING SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Prompt+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Robust+Systems+%E2%9A%A1;Designing+seamless+user+experiences+%E2%9C%A8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Prompt+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Robust+Systems+%E2%9A%A1;Designing+seamless+user+experiences+%E2%9C%A8" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Prompt+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Robust+Systems+%E2%9A%A1;Designing+seamless+user+experiences+%E2%9C%A8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Prompt+Engineer;Full-Stack+Developer;Building+Scalable+Robust+Systems;Designing+Seamless+User+Experiences" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF416C&center=true&vCenter=true&width=600&lines=Prompt+Engineer;Full-Stack+Developer;Building+Scalable+Robust+Systems;Designing+Seamless+User+Experiences" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=FF4B2B&center=true&vCenter=true&width=600&lines=Prompt+Engineer;Full-Stack+Developer;Building+Scalable+Robust+Systems;Designing+Seamless+User+Experiences" />
 </picture>
 
 <br/>
