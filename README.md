@@ -60,28 +60,14 @@ const designer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats-one.vercel.app/api?username=muazumikail1915-create&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" width="48%" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=muazumikail1915-create&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="top languages" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=muazumikail1915-create&show_icons=true&bg_color=0D1117&title_color=FF4B2B&text_color=c9d1d9&icon_color=FF416C&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=muazumikail1915-create&layout=compact&bg_color=0D1117&title_color=FF4B2B&text_color=c9d1d9&icon_color=FF416C&hide_border=true&langs_count=6" alt="top languages" width="48%" />
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=muazumikail1915-create&hide_border=true&background=0D1117&ring=FF4B2B&fire=FF4B2B&currStreakLabel=FF4B2B&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=FF4B2B" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `> trophy --display`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muazumikail1915-create&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muazumikail1915-create&theme=flat&no-frame=true&column=4&margin-w=12&margin-h=12" />
-  <img src="https://github-profile-trophy.vercel.app/?username=muazumikail1915-create&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12&no-bg=true" alt="GitHub Trophies" />
-</picture>
 
 </div>
 
