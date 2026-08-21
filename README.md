@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:FF416C&height=200&section=header&text=MUAZU%20MIKAIL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20and%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:00F5D4&height=200&section=header&text=MUAZU%20MIKAIL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Prompt%20Engineer%20and%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <!-- TYPING SVG -->
 <picture>
@@ -42,7 +42,7 @@ const designer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,express,bash,tailwind,nodejs,php,laravel,react,js,vite&theme=dark&perline=6" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=bash,tailwind,nodejs,php,laravel,react,js,vite&theme=dark&perline=6" alt="tech stack" />
 
 </div>
 
